@@ -8,8 +8,22 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
 ## Parte 1: Básico
 - Conceitos Fundamentais
   - Agentes
+    - Conceito básico 
+  
+  
+  
   - Tipos de ambiente e suas características
 - Modelo BDI
 - Introdução JASON
 - Introdução JAVA
 - Exemplo prático: Beer Robot
+
+## Parte 2: Intermediária
+
+
+## Parte 3: Avançado
+
+
+## Temas em aberto para pesquisa
+
+
