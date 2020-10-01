@@ -10,9 +10,9 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
   - Agentes
     - Conceito básico de agentes: Um agente é um sistema computacional que apresenta as propriedades que seguem. Autonomia: é a capacidade de operar de maneira independente com o mínimo de interferência humana. Habilidade social: é a capacidade de interagir com outros agentes por meio de uma linguagem de comunicação. Reatividade: é a capacidade de perceber mudanças no ambiente e responder em tempo hábil. Proatividade: é a capacidade de exibir comportamentos direcionados a metas por iniciativa própria (Fonte: Wooldridge, M. (2009).An introduction to multiagent systems. John Wiley & Sons).
   
+ - Tipos de ambiente e suas características
+ [Conceitos Resumidos] 
   
-  
-  - Tipos de ambiente e suas características
 - Modelo BDI
 - Introdução JASON
 - Introdução JAVA
