@@ -5,7 +5,11 @@ Este projeto está dividido inicial em 3 tópicos principais de ensino: Básico,
 Diversas atividades serão feitas ao longo dessa atividade.
 O projeto final de validação será um sistema completo envolvendo todos os aspectos estudados. O exemplo dele está disponível em: https://github.com/luancarlosklein/TruckProjectMAS, que foi desenvolvido como trabalho principal de IC pelo aluno Luan Carlos Klein em conjunto com o professor orientador Cesar Augusto Tacla.
 
-###Parte 1: Básico
+## Parte 1: Básico
 - Conceitos Fundamentais
   - Agentes
   - Tipos de ambiente e suas características
+- Modelo BDI
+- Introdução JASON
+- Introdução JAVA
+- Exemplo prático: Beer Robot
