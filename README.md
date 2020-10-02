@@ -30,9 +30,24 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
   - Caso você já tenha conhecimento na linguagem JAVA, pode ignorar essa parte. Do contrário, é interessante já ir conhecendo e se adaptando, pois mais para frente, utilizaremos ele para realizar muitas coisas. Um dos tutorias para aprender [JAVA](link). 
   
 - Exemplo prático: Beer Robot
-  - Para finalizar
+  
 
 ## Parte 2: Intermediária
+
+Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves deles, vamos dar um pouco mais de "inteligência" aos nossos agentes. Para auxílio
+Introdução a python
+DFS
+BFS
+A*
+LRTA* 
+Dijkstra
+Planner 
+Linguagem de modelagem
+SatPlan
+GraphPlan
+POP
+Planning cooperativo
+
 
 
 ## Parte 3: Avançado
