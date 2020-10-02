@@ -55,20 +55,42 @@ Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves
 - OBS: Além de entender os algortimos, é fundamental que você implemente todos eles!!!
  
  <br>
- A segunda parte desse módulo é sobre planejamento. 
+ A segunda parte desse módulo é sobre planejamento. Existem diversos tópicos associados a esse tema. 
+ Dentre os temas a serem aprendidos são:
+ - O que é Planner?
+ - A Linguagem de modelagem (PPDL - Planning Domain Defition Language)
+ - SatPlan
+ - GraphPlan
+ - POP
+ - Planning cooperativo
 
-Planner 
-Linguagem de modelagem
-SatPlan
-GraphPlan
-POP
-Planning cooperativo
-
+<br> O Material para estudo são os capítulos 10 e 12 do livro do Russel.
 
 
 ## Parte 3: Avançado
 
+Nessa parte, iremos ver alguns conceitos importantes, e iremos aplicar nossos conhecimentos na prática.
+
+- Reputação e Imagem:
+- Parte gráfica no JASON:
+
+- Trabalho: Implementação do sistema de descarregamento de caminhões. A especificação sem encontra [aqui](link).
+
+
+## Extra: Como fazer pesquisa cíentifica
+
+## Próximos passos
+
+Se você completou todos os estágios anteriores e chegou até aqui, parabéns. Nesse momento você está apto para começar a realizar pesquisas.
+Lembrando que esse material são apenas para você aprender a "gatinhar". A área de IA está em constante evolução, e diversos conhecimentos so produzidos. Sempre se mantenha atualizado e lembre-se: Aprendizado é uma terefa contínua. 
+
+- Como diz Flávio Augusto (sim, o da Wise-Up), Não é sobre o quanto você sabe, mas sim o que você faz com o que você sabe.
 
 ## Temas em aberto para pesquisa
 
+Agora que você já sabe pesquisar, existem divesas áreas em que você pode começar a aplicar seus conhecimentos. 
+
+Algumas delas são:
+- RoboFun, do PETECO (UTFPR-Curitiba)
+- 
 
