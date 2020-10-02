@@ -50,11 +50,12 @@ Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves
   - Aprofundamento interativo:
   - A*:
   - Dijkstra:
-  -LRTA* (Learning Real Time A*):
-  
+  - LRTA* (Learning Real Time A*):
  
+- OBS: Além de entender os algortimos, é fundamental que você implemente todos eles!!!
  
- 
+ <br>
+ A segunda parte desse módulo é sobre planejamento. 
 
 Planner 
 Linguagem de modelagem
