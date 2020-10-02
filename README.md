@@ -22,7 +22,11 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
 
   - Por questões de facilidade no uso e na integração de ferramentas, utiliza-se a [IDE Eclipse](https://www.eclipse.org/downloads/). Uma vez feita a instalação do mesmo, seguir esse tutorial para a instalação do plugin do [JASON](http://jason.sourceforge.net/mini-tutorial/eclipse-plugin/). OBS: Essa parte é MUITO importante. É necessário que tudo esteja certo e funcionando, para podermos aplicar os conhecimentos na prática.
 
-  - Aqui, ler e fazer alguns exercícios dos capitulos: 3, 4, 5 e 6. 
+  - Aqui, você vai precisar ler e fazer alguns exercícios dos capitulos: 3, 4, 5 e 6 do livro. 
+  
+    - Alguns aspectos importantes que serão aprendidos nos capítulos da leitura:
+      -
+  
   
   - Se tiver alguma duvida em algum exercício, ou quiser comparar suas soluções, nesse [link](http://jason.sourceforge.net/jBook/jBook/Examples.html), há algumas soluções que podem ser úteis.
   
@@ -34,13 +38,24 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
 
 ## Parte 2: Intermediária
 
-Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves deles, vamos dar um pouco mais de "inteligência" aos nossos agentes. Para auxílio
-Introdução a python
-DFS
-BFS
-A*
-LRTA* 
-Dijkstra
+Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves deles, vamos dar um pouco mais de "inteligência" aos nossos agentes. Nesse momento, iremos utilizar a linguagem python. Nosso objetivo é entender o funcionamento dos algoritmos, devido a isso, o python pode ser mais rápido e fácil do que fazer isso no JAVA/JASON. 
+
+- Introdução a python
+  - Se você já conhece python, fique a vontade para pular essa parte. Se não conhecer, gaste um tempinho aprendendo um pouco. Não precisa nada muito a fundo. O aprendizado pode vir com a prática aqui.
+
+- Por enquanto, vamos focar nos algoritmos de busca de caminhos. Todos os algortimos aqui fazem busca em grafos. Podemos modelar um grafo para representar um grid bidimensional, e esse grid representa o ambiente onde nosso agente está. É muito importante além de aprender os algortimos, fazer alguns questionamentes e tentar entender algumas questões como: No que isso se relaciona com agentes? Quando eu posso usar isso? E quando não posso? Essa pesquisa é feita para um agente sozinho, ou eu poderia fazer com que eles "cooperassem" entre si? E assim segue. É legal pensar nesses pontos. Sem mais delongas, vamos conhecer alguns algortimos. 
+
+  - DFS (Deep First Search - Busca em Profundidade):
+  - BFS (Branch Fist Search - Busca em largura):
+  - Aprofundamento interativo:
+  - A*:
+  - Dijkstra:
+  -LRTA* (Learning Real Time A*):
+  
+ 
+ 
+ 
+
 Planner 
 Linguagem de modelagem
 SatPlan
