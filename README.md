@@ -103,6 +103,7 @@ Agora que você já sabe pesquisar, existem divesas áreas em que você pode com
 Algumas delas são:
 - RoboFun, do PETECO (UTFPR-Curitiba)
 - Iniciação científica
+- Diversos tópicos estão disponíveis na página do Professor [Cesar A. Tacla](http://paginapessoal.utfpr.edu.br/tacla). 
 
 Um dos atigos publicados que resultou dessa pesquisa está disponível em: https://eventos.utfpr.edu.br//sicite/sicite2020/paper/view/5992
 E ganhou o prêmio de destaque na área de computação!
