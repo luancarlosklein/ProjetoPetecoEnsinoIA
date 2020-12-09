@@ -18,15 +18,18 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
   - O modelo BDI define a modelagem de estados mentais através de Beliefs, Desires and Intentions (Crenças, Desejos e intençõoes). (Fonte: Georgeff, M., Pell, B., Pollack, M., Tambe, M., and Wooldridge, M. (1998).  The belief-desire-intention model of agency.  InInternational workshop on agent theories, archi-tectures, and languages, pages 1–10. Springer-Verlag, London, UK., Capitulo 2 Programming  multi-agent systems in AgentSpeak using jason).
 
 - Introdução JASON
-  - O JASON é uma ferramenta na qual podemos criar e modelar agentes (baseado no modelo BDI), definindo suas crenças, seus objetivos, seus planos e objetivos. Além disso, ele possibilita realizar interações entre os agentes entre muitas outras coisas. O JASON será nossa principal ferramenta de uso. Inicialmente não se preocupe com a parte gráfica (mais a frente veremos com calma isso). Nosso grande manual será o livro: Bordini,  R.  H.,  H ̈ubner,  J.  F.,  and  Wolldridge,  M.  (2007). Programming  multi-agent systems in AgentSpeak using jason, volume 1. John Wiley & Sons ltd. 
+  - O JASON é uma ferramenta na qual podemos criar e modelar agentes (baseado no modelo BDI), definindo suas crenças, objetivos e planos. Além disso, ele possibilita realizar interações entre os agentes e o ambiente, além de muitas outras coisas. O JASON será nossa principal ferramenta de uso. Inicialmente não se preocupe com a parte gráfica (mais a frente veremos com calma isso). Nosso grande manual será o livro: Bordini,  R.  H.,  H ̈ubner,  J.  F.,  and  Wolldridge,  M.  (2007). Programming  multi-agent systems in AgentSpeak using jason, volume 1. John Wiley & Sons ltd. 
 
-  - Por questões de facilidade no uso e na integração de ferramentas, utiliza-se a [IDE Eclipse](https://www.eclipse.org/downloads/). Uma vez feita a instalação do mesmo, seguir esse tutorial para a instalação do plugin do [JASON](http://jason.sourceforge.net/mini-tutorial/eclipse-plugin/). OBS: Essa parte é MUITO importante. É necessário que tudo esteja certo e funcionando, para podermos aplicar os conhecimentos na prática.
+  - Por questões de facilidade no uso e na integração de ferramentas, utiliza-se a [IDE Eclipse](https://www.eclipse.org/downloads/). Uma vez feita a instalação do mesmo, siga esse tutorial para a instalação do plugin do [JASON](http://jason.sourceforge.net/mini-tutorial/eclipse-plugin/). OBS: Essa parte é MUITO importante. É necessário que tudo esteja certo e funcionando, para podermos aplicar os conhecimentos na prática.
 
-  - Aqui, você vai precisar ler e fazer alguns exercícios dos capitulos: 3, 4, 5 e 6 do livro. 
+  ### Atividade 1
+  - Leia e faça alguns exercícios dos capitulos: 3, 4, 5 e 6 do livro do Bordini. 
   
     - Alguns aspectos importantes que serão aprendidos nos capítulos da leitura:
-      -
-  
+      - Como é feita a programação em Jason e qual é o "paradigma" utilizado por ele;
+      - Como funciona a execução e o raciocinio dos agentes no Jason;
+      - O que são os ambientes;
+      - Comunicação entre agentes (Atenção especial ao CNP-> Contract Net Protocol).
   
   - Se tiver alguma duvida em algum exercício, ou quiser comparar suas soluções, nesse [link](http://jason.sourceforge.net/jBook/jBook/Examples.html), há algumas soluções que podem ser úteis.
   
@@ -38,7 +41,7 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
 
 ## Parte 2: Intermediária
 
-Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves deles, vamos dar um pouco mais de "inteligência" aos nossos agentes. Nesse momento, iremos utilizar a linguagem python. Nosso objetivo é entender o funcionamento dos algoritmos, devido a isso, o python pode ser mais rápido e fácil do que fazer isso no JAVA/JASON. 
+Nessa parte, iremos explorar alguns algoritimos famosos, e muito úteis. Atráves deles, vamos dar um pouco mais de "inteligência" aos nossos agentes. Nesse momento, iremos utilizar a linguagem python. Nosso objetivo é entender o funcionamento dos algoritmos, devido a isso, o python pode ser mais rápido e fácil do que fazer isso no JAVA/JASON. 
 
 - Introdução a python
   - Se você já conhece python, fique a vontade para pular essa parte. Se não conhecer, gaste um tempinho aprendendo um pouco. Não precisa nada muito a fundo. O aprendizado pode vir com a prática aqui.
@@ -52,7 +55,7 @@ Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves
   - Dijkstra:
   - LRTA* (Learning Real Time A*):
  
-- OBS: Além de entender os algortimos, é fundamental que você implemente todos eles!!!
+- OBS: Além de entender os algoritmos, é fundamental que você implemente todos eles (pode ser em qualquer linguagem inicialmente, o imporntante é entender o que acontece por trás)!!!
  
  <br>
  A segunda parte desse módulo é sobre planejamento. Existem diversos tópicos associados a esse tema. 
@@ -67,14 +70,17 @@ Nessa parte, iremos explorar alguns algortimos famosos, e muito úteis. Atráves
 <br> O Material para estudo são os capítulos 10 e 12 do livro do Russel.
 
 
+Por fim, mas não menos importante, introduzimos as Internal Actions. Elas serão especialmente uteis para colocarmos mais funções e ações nos nossos agentes!
+- Leia o capítulo 7 do livro de Bordino.
+
 ## Parte 3: Avançado
 
-Nessa parte, iremos ver alguns conceitos importantes, e iremos aplicar nossos conhecimentos na prática.
+Nessa parte, iremos ver alguns conceitos importantes e iremos aplicar nossos conhecimentos na prática.
 
 - Reputação e Imagem:
 - Parte gráfica no JASON:
 
-- Trabalho: Implementação do sistema de descarregamento de caminhões. A especificação sem encontra [aqui](link).
+## Trabalho Final: Implementação do sistema de descarregamento de caminhões. A especificação sem encontra [aqui](link).
 
 
 ## Extra: Como fazer pesquisa cíentifica
@@ -82,9 +88,9 @@ Nessa parte, iremos ver alguns conceitos importantes, e iremos aplicar nossos co
 ## Próximos passos
 
 Se você completou todos os estágios anteriores e chegou até aqui, parabéns. Nesse momento você está apto para começar a realizar pesquisas.
-Lembrando que esse material são apenas para você aprender a "gatinhar". A área de IA está em constante evolução, e diversos conhecimentos so produzidos. Sempre se mantenha atualizado e lembre-se: Aprendizado é uma terefa contínua. 
+Lembrando que esse material é apenas para você aprender a "gatinhar". A área de IA está em constante evolução, e diversos conhecimentos são produzidos. Sempre se mantenha atualizado e lembre-se: Aprendizado é uma terefa contínua. 
 
-- Como diz Flávio Augusto (sim, o da Wise-Up), Não é sobre o quanto você sabe, mas sim o que você faz com o que você sabe.
+- Como diz Flávio Augusto (sim, o da Wise-Up): Não é sobre o quanto você sabe, mas sim o que você faz com o que você sabe.
 
 ## Temas em aberto para pesquisa
 
@@ -92,5 +98,8 @@ Agora que você já sabe pesquisar, existem divesas áreas em que você pode com
 
 Algumas delas são:
 - RoboFun, do PETECO (UTFPR-Curitiba)
-- 
+- Iniciação científica
+
+Um dos atigos publicados que resultou dessa pesquisa está disponível em: https://eventos.utfpr.edu.br//sicite/sicite2020/paper/view/5992
+E ganhou o prêmio de destaque na área de computação!
 
