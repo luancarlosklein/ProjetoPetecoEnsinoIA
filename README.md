@@ -12,7 +12,7 @@ O projeto final de validação será um sistema completo envolvendo todos os asp
     - Conceito básico de agentes: Um agente é um sistema computacional que apresenta as propriedades que seguem. Autonomia: é a capacidade de operar de maneira independente com o mínimo de interferência humana. Habilidade social: é a capacidade de interagir com outros agentes por meio de uma linguagem de comunicação. Reatividade: é a capacidade de perceber mudanças no ambiente e responder em tempo hábil. Proatividade: é a capacidade de exibir comportamentos direcionados a metas por iniciativa própria (Fonte: Wooldridge, M. (2009).An introduction to multiagent systems. John Wiley & Sons, Capitulo 1 Programming  multi-agent systems in AgentSpeak using jason).
   
  - Tipos de ambiente e suas características: 
- [Conceitos Resumidos](https://github.com/luancarlosklein/ProjetoPetecoEnsinoIA/blob/master/005a-introducao-agentes-ambientes.pdf)
+ [Conceitos Resumidos](https://github.com/luancarlosklein/ProjetoPetecoEnsinoIA/blob/master/Introducao-agentes-ambientes.pdf)
   
 - Modelo BDI
   - O modelo BDI define a modelagem de estados mentais através de Beliefs, Desires and Intentions (Crenças, Desejos e intençõoes). (Fonte: Georgeff, M., Pell, B., Pollack, M., Tambe, M., and Wooldridge, M. (1998).  The belief-desire-intention model of agency.  InInternational workshop on agent theories, archi-tectures, and languages, pages 1–10. Springer-Verlag, London, UK., Capitulo 2 Programming  multi-agent systems in AgentSpeak using jason).
@@ -48,12 +48,16 @@ Nessa parte, iremos explorar alguns algoritimos famosos, e muito úteis. Atráve
 
 - Por enquanto, vamos focar nos algoritmos de busca de caminhos. Todos os algortimos aqui fazem busca em grafos. Podemos modelar um grafo para representar um grid bidimensional, e esse grid representa o ambiente onde nosso agente está. É muito importante além de aprender os algortimos, fazer alguns questionamentes e tentar entender algumas questões como: No que isso se relaciona com agentes? Quando eu posso usar isso? E quando não posso? Essa pesquisa é feita para um agente sozinho, ou eu poderia fazer com que eles "cooperassem" entre si? E assim segue. É legal pensar nesses pontos. Sem mais delongas, vamos conhecer alguns algortimos. 
 
-  - DFS (Deep First Search - Busca em Profundidade):
-  - BFS (Branch Fist Search - Busca em largura):
-  - Aprofundamento interativo:
-  - A*:
-  - Dijkstra:
-  - LRTA* (Learning Real Time A*):
+  - DFS (Deep First Search - Busca em Profundidade);
+  - BFS (Branch Fist Search - Busca em largura);
+  - Aprofundamento interativo;
+  - A*;
+  - Dijkstra;
+  - LRTA* (Learning Real Time A*).
+  
+  Alguns desses tópicos estão disponíveis nos slides do professor Cesar Tacla, nesse [link](https://github.com/luancarlosklein/ProjetoPetecoEnsinoIA/blob/master/Busca-OnLine-DFS-LRTA.pdf).
+  É importante ficar claro nesse momento as diferenças entre os algoritmos que funcionam de maneira offline e online.
+  
  
 - OBS: Além de entender os algoritmos, é fundamental que você implemente todos eles (pode ser em qualquer linguagem inicialmente, o imporntante é entender o que acontece por trás)!!!
  
